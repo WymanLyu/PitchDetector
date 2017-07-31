@@ -5,7 +5,7 @@ Base on Apple Accelerate Lib, detect audio pitch
 
 # Overview
 
-![](https://github.com/WymanLyu/WYNullView/blob/master/Images/pitchTest.gif)
+![](https://github.com/WymanLyu/PitchDetector/blob/master/Images/pitchTest.gif)
 
 # 使用
 
@@ -20,9 +20,10 @@ Base on Apple Accelerate Lib, detect audio pitch
 
 如果是在.m文件使用此类，请修改成.mm
 
-# Hope
+# 最后
 
 If you think it's useful, star to me, Free to share with ideas, issue or pull requests
+
 欢迎提出任何问题，
 
 # License
